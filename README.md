@@ -1,7 +1,12 @@
 # CHECKERS
+Beautify your commit history!
+
+<img width="735" alt="Screen Shot 2022-04-25 at 10 02 27 PM" src="https://user-images.githubusercontent.com/39921371/165211583-65cb2efc-8cca-4bf8-80a6-fa43c58ef455.png">
+
 [example](https://github.com/CalamityAdam?tab=overview&from=2017-12-01&to=2017-12-31)
 
 Currently supporting all non-leap years. (modify this yourself to figure out a leap year.)
+
 
 ## The Logic
 
